@@ -1,0 +1,25 @@
+*{
+    Margin:0;
+    Padding:0;
+    Border:0;
+    text-decoration: none;
+    color: black;
+    }
+
+.main__header{
+    margin: 10px;
+    text-align: center;
+}
+
+.header__links{
+    margin: 10px;
+    text-align: center;
+    padding-bottom: 50px;
+
+}
+
+.redlink{
+    color: red;
+
+}
+
